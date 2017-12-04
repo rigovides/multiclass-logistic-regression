@@ -1,6 +1,6 @@
 ## Multiclass logistic regression implementation in Python
 
-An adaptation of week 4 programming exercise from "Machine Learning by Stanford University" course in coursera.
+Octave/Python adaptation of week 4 programming exercise from "Machine Learning by Stanford University" course in coursera.
 
 Concretely, the goal is to train a linear classifier to predict handrwitten numbers from 0 to 9. This is achieved by using logistic regression and classifying multiple classes using a one-vs-all approach. The training itself its performed against a MNIST subset of 5000 examples contained in the `ex3data1.mat` file.
 
