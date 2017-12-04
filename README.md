@@ -20,4 +20,4 @@ For simplicity, it is recommended to install Conda, download content of this rep
 
 ### Further work
 
-This code can be modularized and generalized to create a fully adaptable classifier for any number of K classes, and X, y training set.
+This code can be modularized and generalized to create a fully adaptable classifier for any number of K classes, and X, y training sets like https://github.com/scikit-learn-contrib/lightning, etc. Although this implementation´s main objective was merely for academic purposes.
