@@ -20,4 +20,4 @@ For simplicity, it is recommended to install Conda, download content of this rep
 
 ### Further work
 
-This code clearly can be modularized and generalized to create a fully adaptable classifier for any number of K classes, and X, y training set.
+This code can be modularized and generalized to create a fully adaptable classifier for any number of K classes, and X, y training set.
