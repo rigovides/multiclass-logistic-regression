@@ -1,1 +1,1 @@
-### Multiclass logistic regression implementation
+### Multiclass logistic regression implementation in Python
